@@ -1,0 +1,3 @@
+Xin chào!
+Tuổi:20
+msv=0, ten=Trung, phi=2004.0, thue=0.0
